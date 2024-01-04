@@ -10,8 +10,8 @@ HTML & CSS
 
 ## Funcionalidades
 
-- Design responsivo
-- 
+- Design responsivo utilizando media queries e flexbox
+- Biblioteca de ícones font-awesome
 
 
 ## Autores
